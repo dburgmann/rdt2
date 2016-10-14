@@ -1,0 +1,7 @@
+,,trees,deep,maxS,percLabels
+RDTLabel,Best Subset Accuracy,500,15,2,,,,
+RDTPercentage,Best Subset Accuracy,500,10,2,,,,
+RDTLabelPowerset,Best Subset Accuracy,500,5,2,,,,
+RDTChainLabel,Best Subset Accuracy,500,10,2,0.5,,,
+RDTChainPercentage,Best Subset Accuracy,500,10,2,0.5,,,
+
