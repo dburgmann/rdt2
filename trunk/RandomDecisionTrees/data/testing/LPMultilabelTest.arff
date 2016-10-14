@@ -1,0 +1,27 @@
+@relation lpmultilabel
+
+@attribute nom1 {value1, value2}
+@attribute class1 {0, 1}
+@attribute class2 {0, 1}
+@attribute class3 {0, 1}
+		
+
+@data
+value1,0,0,0
+value1,0,0,1
+value1,0,1,0
+value1,0,1,1
+value1,1,0,0
+value1,1,0,1
+value1,1,1,0
+value1,1,1,1
+
+value1,0,0,0
+value1,0,0,1
+value1,0,1,0
+value1,0,1,1
+value1,1,0,0
+value1,1,0,1
+value1,1,1,0
+value1,1,1,1
+

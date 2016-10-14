@@ -1,0 +1,13 @@
+@relation quantiltest1
+
+@attribute attr1 {A, B}
+@attribute attr2 {C, D, E}
+@attribute attr3 numeric
+@attribute class {class1, class2, class3, class4, class5, class6}
+		
+
+@data
+
+A,C,1, class1
+A,C,2, class2
+A,C,3, class3

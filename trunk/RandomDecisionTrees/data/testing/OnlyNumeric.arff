@@ -1,0 +1,17 @@
+@relation onlynumeric
+
+@attribute attr1 numeric
+@attribute attr2 numeric
+@attribute attr3 numeric
+@attribute class {class1, class2}
+		
+
+@data
+
+1,1,1, class1
+2,2,2, class1
+3,3,3, class1
+4,4,4, class1
+5,5,5, class1
+6,6,6, class1
+7,7,7, class1

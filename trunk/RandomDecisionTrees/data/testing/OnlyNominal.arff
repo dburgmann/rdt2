@@ -1,0 +1,15 @@
+@relation onlynominal
+
+@attribute attr1 {A, B}
+@attribute attr2 {C, D, E}
+@attribute class {class1, class2, class3, class4, class5, class6}
+		
+
+@data
+
+A,C, class1
+A,D, class2
+A,E, class3
+B,C, class4
+B,D, class5
+B,E, class6

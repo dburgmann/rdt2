@@ -1,0 +1,17 @@
+@relation recursive2test
+
+@attribute attr1 numeric
+@attribute attr2 numeric
+@attribute attr3 numeric
+@attribute class1 {class1, class2}
+@attribute class2 {class1, class2}
+@attribute class3 {class1, class2}
+		
+
+@data
+
+1,11,111, class2, class1, class1
+2,22,222, class1, class2, class1
+3,33,333, class2, class1, class1
+4,44,444, class1, class2, class2
+

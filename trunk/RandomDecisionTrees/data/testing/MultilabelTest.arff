@@ -1,0 +1,17 @@
+@relation multi
+
+@attribute attr1 {A, B}
+@attribute attr2 {C, D, E}
+@attribute class1 {0, 1}
+@attribute class2 {0, 1}
+@attribute class3 {0, 1}
+		
+
+@data
+
+A,C,0,0,0
+A,D,0,0,1
+A,E,0,1,0
+B,C,1,0,0
+B,D,1,1,0
+B,E,0,1,1
