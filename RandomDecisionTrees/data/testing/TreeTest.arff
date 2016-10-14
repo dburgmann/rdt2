@@ -1,0 +1,24 @@
+@relation treetest
+
+@attribute nom1 {value1, value2}
+@attribute num0 real
+@attribute class {class1, class2}
+		
+
+@data
+value1,10,class1
+value1,10,class1
+value1,10,class1
+value2,10,class1
+value2,10,class1
+value2,10,class1
+value2,20,class1
+value2,20,class1
+value2,20,class1
+value2,30,class1
+value2,30,class1
+value2,30,class1
+value2,40,class1
+value2,40,class1
+value2,40,class1
+

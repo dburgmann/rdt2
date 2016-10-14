@@ -1,0 +1,17 @@
+@relation easymultilabel
+
+@attribute nom1 {value1, value2}
+@attribute num0 real
+@attribute class {0, 1}
+@attribute class {0, 1}
+		
+
+@data
+value1,10,0,0
+value1,10,0,0
+value1,20,1,1
+value1,20,1,1
+value1,20,1,1
+value1,20,1,1
+value1,20,1,0
+

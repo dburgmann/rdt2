@@ -1,0 +1,111 @@
+@relation onlynominal
+
+@attribute attr1 {A, B}
+@attribute attr2 {C, D, E}
+@attribute class {class1, class2}
+		
+
+@data
+
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class1
+A,C, class2
+
+

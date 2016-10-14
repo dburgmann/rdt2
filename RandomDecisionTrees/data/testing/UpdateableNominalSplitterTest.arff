@@ -1,0 +1,18 @@
+@relation updateablenominalsplittertest
+
+@attribute nom1 {value1, value2, value3, value4, value5, value6}
+@attribute class {class1, class2}
+		
+
+@data
+value1, class1
+value2, class1
+value2, class1
+value2, class1
+value3, class1
+value4, class1
+value5, class1
+value6, class1
+?, class1
+?, class1
+
