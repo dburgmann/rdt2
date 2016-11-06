@@ -32,7 +32,7 @@ public class ExperimentEngine {
 	public static void main(String[] args) throws Exception {
 
 		//For testing 
-		args = new String[]{"sparse"};
+		args = new String[]{"batch_opt"};
 		
 		
 		
